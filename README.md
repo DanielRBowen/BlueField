@@ -7,4 +7,6 @@ UE5 demo.
 
 [Music](https://youtu.be/2-9rwzsVyck?si=U43LyUOmf2FP3kt7)
 
+[FSR 3](https://gpuopen.com/learn/ue-fsr3/)
+
 [Game](https://1drv.ms/u/s!AshE0AVwbuKUlqodvrkPmXWGecYStA?e=ah9kAi)
